@@ -1,0 +1,7 @@
+﻿  DrawText.cpp
+  Tetrominocpp.cpp
+C:\Users\XOTTAbl4\source\repos\tetris\tetris\DrawText.hpp(3,67): error C2039: "string": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(24,1): message : см. объявление "std"
+C:\Users\XOTTAbl4\source\repos\tetris\tetris\DrawText.hpp(3,73): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\XOTTAbl4\source\repos\tetris\tetris\DrawText.hpp(3,73): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  Создание кода...
