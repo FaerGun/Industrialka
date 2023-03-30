@@ -1,0 +1,12 @@
+﻿  DrawText.cpp
+  GetTetromino.cpp
+  GetWallKickData.cpp
+  Main.cpp
+C:\Users\XOTTAbl4\source\repos\Source\Source\Main.cpp(90,23): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Tetromino.cpp
+  Создание кода...
+  Source.vcxproj -> C:\Users\XOTTAbl4\source\repos\Source\x64\Debug\Source.exe
